@@ -44,9 +44,8 @@ Pas de double authentification TOTP, pas de liste de révocation des certificats
 
 ## Contenu du repo
 
-- [Rapport complet (PDF)](docs/Rapport_MediConnect.pdf)
-- [Captures d'écran (PDF)](docs/Captures_MediConnect.pdf)
-- Vidéo de démonstration : *(lien YouTube non répertorié à ajouter)*
+- [Rapport complet (PDF)](docs/Daniel_Aleksic_-_MediConnect_Rapport.pdf)
+- [Captures d'écran (PDF)](docs/Daniel_Aleksic_-_MediConnect_Annexe_Captures.pdf)
 
 ## Outils
 
