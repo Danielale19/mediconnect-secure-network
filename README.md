@@ -4,7 +4,7 @@ Projet réalisé seul en 4e année d'ingénieur à l'EFREI, dans le cours Sécur
 
 L'objectif était de concevoir l'infrastructure réseau sécurisée d'une plateforme fictive de prise de rendez-vous médicaux, comme Doctolib, répartie sur deux sites. L'application web est considérée comme existante, mon travail porte uniquement sur le réseau. Tout le lab tourne sous VirtualBox avec pfSense CE 2.9.0.
 
-![Schéma d'architecture](schema_mediconnect.png)
+![Schéma d'architecture](images/schema_mediconnect.png)
 
 ## Ce qui a été mis en place
 
@@ -44,8 +44,8 @@ Pas de double authentification TOTP, pas de liste de révocation des certificats
 
 ## Contenu du repo
 
-- [Rapport complet (PDF)](Rapport_MediConnect.pdf)
-- [Captures d'écran (PDF)](Captures_MediConnect.pdf)
+- [Rapport complet (PDF)](docs/Rapport_MediConnect.pdf)
+- [Captures d'écran (PDF)](docs/Captures_MediConnect.pdf)
 - Vidéo de démonstration : *(lien YouTube non répertorié à ajouter)*
 
 ## Outils
